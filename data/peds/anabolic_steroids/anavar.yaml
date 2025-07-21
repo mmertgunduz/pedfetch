@@ -1,0 +1,62 @@
+anavar:
+  name: "Anavar"
+  chemical_name: "Oxandrolone"
+  category: "Anabolic Steroids"
+  appearance: "White or off-white crystalline powder"
+  brand_names:
+    - "Anavar"
+    - "Oxandrin"
+  administration: "Oral"
+  typical_dosage_mg_per_day:
+    men: "20-80 mg"
+    women: "5-20 mg"
+  half_life_hours: 9
+  detection_time_weeks: 3-4
+  effectiveness_ratings:
+    fat_burn: 6
+    muscle_gain: 4
+    bone_density_gain: 7
+    recovery_increase: 5
+    tissue_repair: 6
+    strength_gain: 6
+    endurance_enhancement: 3
+    vascularity: 6
+    hardness: 7
+    water_retention: 1
+  benefits:
+    - "Promotes lean muscle mass"
+    - "Enhances strength without excessive weight gain"
+    - "Low risk of estrogenic side effects"
+    - "Useful in cutting cycles"
+    - "Improves nitrogen retention and protein synthesis"
+  side_effects:
+    androgenic:
+      - "Acne"
+      - "Hair loss (in genetically predisposed)"
+      - "Increased body hair growth"
+    estrogenic:
+      - "Minimal to none (does not aromatize)"
+    cardiovascular:
+      - "Potential negative impact on cholesterol (HDL decrease, LDL increase)"
+    hepatotoxicity: "Moderate liver toxicity due to 17-alpha alkylation"
+    other:
+      - "Suppression of natural testosterone production"
+      - "Possible mood changes or aggression"
+  post_cycle_therapy:
+    required: "Yes"
+    common_protocols:
+      - "Clomid or Nolvadex for 4 weeks post-cycle"
+    notes: "Necessary to restore natural testosterone production"
+  notes:
+    - "Considered one of the mildest oral steroids for both men and women"
+    - "Caution required due to liver strain with prolonged use"
+    - "Not recommended for individuals with pre-existing liver or cardiovascular issues"
+  legal_status:
+    - "Controlled substance in many countries"
+    - "Prescription-only medication"
+  pharmacology:
+    androgen_receptor_affinity: "Moderate"
+    metabolism: "Primarily hepatic, via 17-alpha alkylation"
+    excretion: "Renal"
+  references:
+    - "https://www.drugs.com/ppa/oxandrolone.html"

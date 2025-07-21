@@ -1,0 +1,51 @@
+compound_name:
+  name: ""
+  chemical_name: ""
+  category: ""
+  appearance: ""
+  brand_names:
+    - ""
+  administration: ""
+  typical_dosage_mg_per_day:
+    men: ""
+    women: ""
+  half_life_hours: 0
+  detection_time_weeks: 0
+  effectiveness_ratings:
+    fat_burn: 0
+    muscle_gain: 0
+    bone_density_gain: 0
+    recovery_increase: 0
+    tissue_repair: 0
+    strength_gain: 0
+    endurance_enhancement: 0
+    vascularity: 0
+    hardness: 0
+    water_retention: 0
+  benefits:
+    - ""
+  side_effects:
+    androgenic:
+      - ""
+    estrogenic:
+      - ""
+    cardiovascular:
+      - ""
+    hepatotoxicity: ""
+    other:
+      - ""
+  post_cycle_therapy:
+    required: ""
+    common_protocols:
+      - ""
+    notes: ""
+  notes:
+    - ""
+  legal_status:
+    - ""
+  pharmacology:
+    androgen_receptor_affinity: ""
+    metabolism: ""
+    excretion: ""
+  references:
+    - ""
